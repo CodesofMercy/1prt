@@ -1,0 +1,18 @@
+# Собранные бинарники
+/1prt
+/1prt.exe
+/ui
+*.exe
+
+# Артефакты fyne package / fyne-cross
+/fyne-cross/
+*.app
+*.apk
+*.tar.xz
+
+# IDE
+.idea/
+.vscode/
+
+# Временные файлы
+*.tmp
